@@ -1,0 +1,500 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true,
+					"ownedViews": [
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGB3zQO4XQUGaw=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 568,
+							"top": 392,
+							"width": 145,
+							"height": 73
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGB3zQcLHQXks8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 600,
+							"top": 416,
+							"width": 63.9296875,
+							"height": 25,
+							"text": "IZAHTAP"
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGB3zUtI3QlCAA=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 104,
+							"top": 72,
+							"width": 264,
+							"height": 201
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGB3zVIGHQone4=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 104,
+							"top": 40,
+							"width": 249,
+							"height": 38,
+							"text": "EXPLANATIONS - DYNAMIC"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB3zW4pXQsr94=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 112,
+							"top": 80,
+							"width": 102.9296875,
+							"height": 25,
+							"text": "PAGES-FRONT"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB3zX4DnQw/sk=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 104,
+							"top": 112,
+							"width": 264,
+							"height": 49,
+							"text": "SOLUTIONS, BOOKSECTION, QUESTIONDETAIL"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB3zeAzHQ6zkE=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 112,
+							"top": 168,
+							"width": 102.9296875,
+							"height": 25,
+							"text": "API- BACKEND"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB3zfHj3RAzIk=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 104,
+							"top": 200,
+							"width": 264,
+							"height": 51,
+							"text": "EXPLANATIONS - GET - USER                     EXPLANATIONS - POST, UPDATE, DELETE - ADMIN"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGB3zppc3RRhBE=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 984,
+							"top": 48,
+							"width": 145,
+							"height": 38,
+							"text": "SELLING BOOKS"
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGB3zqxpHRW/5E=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 976,
+							"top": 80,
+							"width": 305,
+							"height": 281
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGB3zrDNHRZZWQ=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 992,
+							"top": 88,
+							"width": 102.9296875,
+							"height": 25,
+							"text": "PAGES-FORNT"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB3zsB7HRds90=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 976,
+							"top": 112,
+							"width": 305,
+							"height": 88
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB3z0SVnRv1z8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 984,
+							"top": 208,
+							"width": 102.9296875,
+							"height": 25,
+							"text": "API- BACKEND"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB3z0s2nR03OY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 976,
+							"top": 240,
+							"width": 305,
+							"height": 121,
+							"text": "BOOKS - GET - USER                     BOOKS ID - POST, UPDATE, DELETE - USER                                                              BOOKS ALL - UPDATE, POST, DELETE - ADMIN"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB3z5isHSCwrU=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 976,
+							"top": 120,
+							"width": 305,
+							"height": 81,
+							"text": "HOME SELLING BOOKS, SEARCH BOOKS, BOOKSCREEN, BOOKFAVOURITES, DELETE BOOK, SELLBOOK FORM"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGB3z+jhnSL+L8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 104,
+							"top": 528,
+							"width": 129,
+							"height": 38,
+							"text": "PROFILE PAGE"
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGB3z/jN3SQ21I=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 88,
+							"top": 568,
+							"width": 264,
+							"height": 288
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB3z/vL3SUTD0=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 104,
+							"top": 584,
+							"width": 102.9296875,
+							"height": 25,
+							"text": "PAGES-FRONT"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB30ANOnSZBR0=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 88,
+							"top": 616,
+							"width": 264,
+							"height": 49,
+							"text": "LOGIN, REGISTER, UPDATE"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB30Byg3Sf7zg=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 104,
+							"top": 680,
+							"width": 102.9296875,
+							"height": 25,
+							"text": "API- BACKEND"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB30CWE3SkaOY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 88,
+							"top": 720,
+							"width": 264,
+							"height": 77,
+							"text": "REGISTER- POST- USER                                LOGIN - POST- USER                                     USER ID - DELETE, UPDATE- USER                USER ALL - UPDATE, DELETE - ADMIN"
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGB30IKKHSwR/Y=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 672,
+							"top": 647,
+							"width": 264,
+							"height": 201
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGB30IKKHSxYr8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 672,
+							"top": 615,
+							"width": 249,
+							"height": 38,
+							"text": "BLOGS - DYNAMIC"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB30IKKHSykjY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 680,
+							"top": 655,
+							"width": 102.9296875,
+							"height": 25,
+							"text": "PAGES-FRONT"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB30IKKHSzCRs=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 672,
+							"top": 687,
+							"width": 264,
+							"height": 49,
+							"text": "BLOGS, BLOGS DETAIL"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB30IKKHS0HGg=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 680,
+							"top": 743,
+							"width": 102.9296875,
+							"height": 25,
+							"text": "API- BACKEND"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB30IKKHS1YNM=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 672,
+							"top": 775,
+							"width": 264,
+							"height": 51,
+							"text": "BLOGS - GET- USER                                      BLOGS- UPDATE, POST, DELETE - ADMIN"
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGB30N/DXTHVnE=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 1173,
+							"top": 537,
+							"width": 264,
+							"height": 201
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGB30N/DXTI2iE=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 1173,
+							"top": 505,
+							"width": 249,
+							"height": 38,
+							"text": "JOBS - DYNAMIC"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB30N/DXTJ5Pc=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 1181,
+							"top": 545,
+							"width": 102.9296875,
+							"height": 25,
+							"text": "PAGES-FRONT"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB30N/DXTK5tY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 1173,
+							"top": 577,
+							"width": 264,
+							"height": 49,
+							"text": "JOBS, JOB DETAIL"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB30N/DXTLe3E=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 1181,
+							"top": 633,
+							"width": 102.9296875,
+							"height": 25,
+							"text": "API- BACKEND"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGB30N/DXTMtk8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 1173,
+							"top": 665,
+							"width": 264,
+							"height": 51,
+							"text": "JOBS - GET- USER                                      JOBS- UPDATE, POST, DELETE - ADMIN"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGB30TVLnTbQp0=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "336:248;572:408"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGB30UTZHTf/kY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "704:408;975:322"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGB30Un93TiDd8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "344:624;572:458"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGB30U2z3TleMI=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "696:456;786:647"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGB30VNy3Totb4=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "704:448;1175:596"
+						}
+					]
+				}
+			]
+		}
+	]
+}
